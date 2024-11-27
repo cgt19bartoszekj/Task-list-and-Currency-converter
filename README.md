@@ -6,7 +6,7 @@ Simple task list with all necessary functionalities.
 
 ## Table of Contents
 
-- [Installation](#instalation)
+- [Instalation](#instalation)
 - [Features](#features)
 - [Technologies used](#technologies-used)
 - [Contact](#contact)
