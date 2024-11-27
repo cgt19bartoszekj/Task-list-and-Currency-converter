@@ -87,6 +87,6 @@ Simple task list with all necessary functionalities.
 
 For issues, questions, or suggestions, please open an issue in the repository or contact:
 
-Email: jakub.bartoszek.dev@gmail.com
-Linkedin: [jbartoszek-dev](https://www.linkedin.com/in/jbartoszek-dev)
-GitHub: [jakub-bartoszek](https://github.com/jakub-bartoszek)
+- Email: jakub.bartoszek.dev@gmail.com
+- Linkedin: [jbartoszek-dev](https://www.linkedin.com/in/jbartoszek-dev)
+- GitHub: [jakub-bartoszek](https://github.com/jakub-bartoszek)
